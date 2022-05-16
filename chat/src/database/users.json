@@ -1,0 +1,43 @@
+[
+    {
+        "user_id": 1,
+        "username": "Jakhongir",
+        "password": "12345",
+        "email": "ali3236@gmail.com",
+        "avatar_link": "18892hd.jpg"
+    },
+    {
+        "user_id": 2,
+        "username": "amiran",
+        "password": "12345678",
+        "email": "amiran@gmail.com",
+        "avatar_link": "18892hd.jpg"
+    },
+    {
+        "user_id": 3,
+        "username": "Jakhongir32",
+        "email": "jakhongir3236@gmail.com",
+        "avatar_link": "09161photo_2021-12-09_23-20-39.jpg"
+    },
+    {
+        "user_id": 4,
+        "username": "Ali",
+        "password": "12345678",
+        "email": "jakhongir3236@gmail.com",
+        "avatar_link": "80813photo_2021-12-13_22-17-40.jpg"
+    },
+    {
+        "user_id": 5,
+        "username": "Salim",
+        "password": "12345678",
+        "email": "jakhongir3236@gmail.com",
+        "avatar_link": "23005hd.jpg"
+    },
+    {
+        "user_id": 6,
+        "username": "Javohir",
+        "password": "12345678",
+        "email": "jakhongir3236@gmail.com",
+        "avatar_link": "08145photo_2021-10-05_10-17-34.jpg"
+    }
+]
